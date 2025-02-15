@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node server.js"
+    "start": "node init && node server.js"
   },
   "name": "client",
   "version": "1.0.0",
